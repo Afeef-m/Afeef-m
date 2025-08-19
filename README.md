@@ -20,6 +20,12 @@
 
 
 ---
+---
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=afeef-m&show_icons=true&locale=en&theme=gotham" alt="dennisbenadict" width="45%" />
+    <img src="https://leetcard.jacoblin.cool/afeef-m?theme=dark&font=ABeeZee" width="45%" />
+</p>
+---
 
 ## 📌 Featured Projects
 
