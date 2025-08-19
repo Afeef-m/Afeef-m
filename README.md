@@ -11,9 +11,9 @@
 #  Hi, I'm Afeef
 
 🎓 Computer Engineering   
-💻 Frontend Developer | HTML | CSS | JavaScript | React  
+💻 Frontend Developer | HTML | CSS | JavaScript | React | Redux  
 🚀 Passionate about building web apps  
-🌱 Currently learning: React, Git
+🌱 Currently learning: React & Redux, Git
 </div>
 
 <div align="center" style="margin: 20px;">
@@ -70,69 +70,64 @@
 </div>
 
 
-📊 GitHub Analytics
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=afeef-m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=afeef-m&show_icons=true&theme=default&include_all_commits=true&count_private=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afeef-m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Afeef's GitHub stats" />
-  </picture>
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=afeef-m&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=afeef-m&layout=compact&langs_count=8&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afeef-m&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
-  </picture>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afeef-m&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak Stats"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afeef-m&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
+---
 
-🏆 GitHub Achievements & LeetCode Journey
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=afeef-m&show_icons=true&locale=en&theme=gotham" alt="dennisbenadict" width="45%" />
+    <img src="https://leetcard.jacoblin.cool/afeef-m?theme=dark&font=ABeeZee" width="45%" />
+</p>
+
+
+## 📌 Featured Projects
+
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="center">
-        <h3>🏆 GitHub Trophies</h3>
-        <img src="https://github-profile-trophy.vercel.app/?username=afeef-m&theme=tokyonight&no-frame=true&no-bg=true&column=3&row=2" alt="GitHub Trophies"/>
+      <td align="center" width="250">
+        <a href="https://github.com/Afeef-m/pet-e-com" target="_blank">
+          <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 20px; margin: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.25);">
+            <img src="https://img.icons8.com/color/96/000000/dog.png" width="70" height="70" alt="Pet App"/>
+            <br><br><sub><b style="color: white; font-size: 16px;">🐾 Pet E-Commerce App</b></sub>
+          </div>
+        </a>
       </td>
-      <td width="50%" align="center">
-        <h3>⚡ LeetCode Stats</h3>
-        <img src="https://leetcard.jacoblin.cool/afeef-m?theme=dark&font=ABeeZee&ext=contest" width="100%" alt="LeetCode Stats"/>
+      <td align="center" width="250">
+        <a href="https://github.com/Afeef-m/portfolio" target="_blank">
+          <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 20px; padding: 20px; margin: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.25);">
+            <img src="https://img.icons8.com/color/96/000000/domain.png" width="70" height="70" alt="Portfolio"/>
+            <br><br><sub><b style="color: white; font-size: 16px;">🌐 Portfolio Website</b></sub>
+          </div>
+        </a>
       </td>
     </tr>
   </table>
 </div>
 
-## 📌 Featured Projects
-
-> ⚙️ Click on any to explore:
-
-- 🐾 [Pet E-Commerce App](https://github.com/Afeef-m/pet-e-com)  
-- 🔗 [Portfolio Website](https://github.com/Afeef-m/portfolio)  
-
 ---
-
 
 ## 🔗 Connect with Me
 
-📧 afeefmalivekkal135@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/afeef-m)  
-
----
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <a href="mailto:afeefmalivekkal135@gmail.com">
+          <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; padding: 20px; margin: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.25);">
+            <img src="https://img.icons8.com/color/96/000000/gmail.png" width="70" height="70" alt="Email"/>
+            <br><br><sub><b style="color: white; font-size: 16px;">📧 Email</b></sub>
+          </div>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="https://www.linkedin.com/in/afeef-m" target="_blank">
+          <div style="background: linear-gradient(135deg, #00c6ff 0%, #0072ff 100%); border-radius: 20px; padding: 20px; margin: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.25);">
+            <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="70" height="70" alt="LinkedIn"/>
+            <br><br><sub><b style="color: white; font-size: 16px;">💼 LinkedIn</b></sub>
+          </div>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 _Thanks for visiting! ⭐ Drop a star on any repo you like!_
