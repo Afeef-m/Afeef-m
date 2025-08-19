@@ -130,4 +130,4 @@
   </table>
 </div>
 
-_Thanks for visiting! ⭐ Drop a star on any repo you like!_
+_Thanks for visiting! 
