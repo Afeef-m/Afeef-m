@@ -84,7 +84,7 @@
   <table>
     <tr>
       <td align="center" width="250">
-        <a href="https://github.com/Afeef-m/pet-e-com" target="_blank">
+        <a href="https://github.com/Afeef-m/pet-ecom" target="_blank">
           <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 20px; margin: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.25);">
             <img src="https://img.icons8.com/color/96/000000/dog.png" width="70" height="70" alt="Pet App"/>
             <br><br><sub><b style="color: white; font-size: 16px;">🐾 Pet E-Commerce App</b></sub>
