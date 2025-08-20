@@ -16,6 +16,8 @@
 🌱 Currently learning: React & Redux, Git
 </div>
 
+---
+
 <div align="center" style="margin: 20px;">
   <table>
     <tr>
@@ -65,9 +67,7 @@
       </td>
   </table>
 </div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,git,vscode&theme=dark&perline=8" alt="Tech Stack" />
-</div>
+
 
 
 ---
@@ -77,6 +77,7 @@
     <img src="https://leetcard.jacoblin.cool/afeef-m?theme=dark&font=ABeeZee" width="45%" />
 </p>
 
+---
 
 ## 📌 Featured Projects
 
