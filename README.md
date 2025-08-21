@@ -1,19 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Afeef!&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Enthusiast&descAlignY=51&descAlign=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Afeef!&fontSize=75&animation=twinkling"/>
+
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Frontend+Developer;React+Enthusiast;Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Graduated;Frontend+Developer;React+Enthusiast;Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
+  
+## Computer Engineering  Graduated
 
-#  Hi, I'm Afeef
+**Frontend Developer** | HTML · CSS · JavaScript · React · Redux  
 
-🎓 Computer Engineering   
-💻 Frontend Developer | HTML | CSS | JavaScript | React | Redux  
-🚀 Passionate about building web apps  
-🌱 Currently learning: React & Redux, Git
+Passionate about building modern, user-friendly web apps.  
+
+*Currently learning:* React & Redux, Git  
+
 </div>
 
 ---
