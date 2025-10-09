@@ -11,11 +11,11 @@
   
 ## Computer Engineering  Graduated
 
-**Frontend Developer** | HTML · CSS · JavaScript · React · Redux  
+**Frontend Developer** | HTML · CSS · JavaScript · React · Redux  · TypeScript
 
 Passionate about building modern, user-friendly web apps.  
 
-*Currently learning:* React & Redux, Git  
+*Currently learning:* TypeScript 
 
 </div>
 
@@ -54,6 +54,12 @@ Passionate about building modern, user-friendly web apps.
         <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 15px; padding: 15px; margin: 10px;">
           <img src="https://skillicons.dev/icons?i=redux" width="60" height="60" alt="Redux" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
           <br><br><sub><b style="color: white; font-size: 14px;">Redux</b></sub>
+        </div>
+      </td>
+      <td align="center" width="120">
+        <div style="background: linear-gradient(135deg, #007ACC 0%, #00C6FF 100%); border-radius: 15px; padding: 15px; margin: 10px;">
+          <img src="https://skillicons.dev/icons?i=typescript" width="60" height="60" alt="TypeScript" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+          <br><br><sub><b style="color: white; font-size: 14px;">TypeScript</b></sub>
         </div>
       </td>
       <td align="center" width="120">
