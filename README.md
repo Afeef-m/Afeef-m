@@ -11,11 +11,11 @@
   
 ## Computer Engineering  Graduated
 
-**Frontend Developer** | HTML · CSS · JavaScript · React · Redux  · TypeScript
+**Frontend Developer** | HTML · CSS · JavaScript · React · Redux  · TypeScript · NextJS
 
 Passionate about building modern, user-friendly web apps.  
 
-*Currently learning:* TypeScript 
+ 
 
 </div>
 
