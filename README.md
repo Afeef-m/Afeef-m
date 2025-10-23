@@ -26,54 +26,63 @@ Passionate about building modern, user-friendly web apps.
     <tr>
       <td align="center" width="120">
         <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 15px; margin: 10px;">
-          <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+          <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />
           <br><br><sub><b style="color: white; font-size: 14px;">HTML5</b></sub>
         </div>
       </td>
       <td align="center" width="120">
         <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; padding: 15px; margin: 10px;">
-          <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS3" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+          <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS3" />
           <br><br><sub><b style="color: white; font-size: 14px;">CSS3</b></sub>
         </div>
       </td>
       <td align="center" width="120">
         <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 15px; padding: 15px; margin: 10px;">
-          <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" alt="JavaScript" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+          <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" alt="JavaScript" />
           <br><br><sub><b style="color: white; font-size: 14px;">JavaScript</b></sub>
         </div>
       </td>
       <td align="center" width="120">
         <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 15px; padding: 15px; margin: 10px;">
-          <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+          <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" />
           <br><br><sub><b style="color: white; font-size: 14px;">React</b></sub>
         </div>
       </td>
     </tr>
     <tr>
       <td align="center" width="120">
-        <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 15px; padding: 15px; margin: 10px;">
-          <img src="https://skillicons.dev/icons?i=redux" width="60" height="60" alt="Redux" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-          <br><br><sub><b style="color: white; font-size: 14px;">Redux</b></sub>
-        </div>
-      </td>
-      <td align="center" width="120">
         <div style="background: linear-gradient(135deg, #007ACC 0%, #00C6FF 100%); border-radius: 15px; padding: 15px; margin: 10px;">
-          <img src="https://skillicons.dev/icons?i=typescript" width="60" height="60" alt="TypeScript" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+          <img src="https://skillicons.dev/icons?i=typescript" width="60" height="60" alt="TypeScript" />
           <br><br><sub><b style="color: white; font-size: 14px;">TypeScript</b></sub>
         </div>
       </td>
       <td align="center" width="120">
-        <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 15px; padding: 15px; margin: 10px;">
-          <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-          <br><br><sub><b style="color: #333; font-size: 14px;">Git</b></sub>
+        <div style="background: linear-gradient(135deg, #000000 0%, #434343 100%); border-radius: 15px; padding: 15px; margin: 10px;">
+          <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" alt="Next.js" />
+          <br><br><sub><b style="color: white; font-size: 14px;">Next.js</b></sub>
         </div>
       </td>
       <td align="center" width="120">
-        <div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); border-radius: 15px; padding: 15px; margin: 10px;">
-          <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VS Code" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+        <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 15px; padding: 15px; margin: 10px;">
+          <img src="https://skillicons.dev/icons?i=redux" width="60" height="60" alt="Redux" />
+          <br><br><sub><b style="color: white; font-size: 14px;">Redux</b></sub>
+        </div>
+      </td>
+      <td align="center" width="120">
+        <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 15px; padding: 15px; margin: 10px;">
+          <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
+          <br><br><sub><b style="color: #333; font-size: 14px;">Git</b></sub>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="4">
+        <div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); border-radius: 15px; padding: 15px; margin: 10px; width: 120px; display: inline-block;">
+          <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VS Code" />
           <br><br><sub><b style="color: white; font-size: 14px;">VS Code</b></sub>
         </div>
       </td>
+    </tr>
   </table>
 </div>
 
