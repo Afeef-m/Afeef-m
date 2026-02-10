@@ -63,6 +63,20 @@ Passionate about building modern, user-friendly web apps.
         </div>
       </td>
       <td align="center" width="120">
+  <div style="background: linear-gradient(135deg, #000000 0%, #434343 100%); border-radius: 15px; padding: 15px; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=gsap" width="60" height="60" alt="GSAP" />
+    <br><br>
+    <sub><b style="color: white; font-size: 14px;">GSAP</b></sub>
+  </div>
+</td>
+      <td align="center" width="120">
+  <div style="background: linear-gradient(135deg, #000000 0%, #434343 100%); border-radius: 15px; padding: 15px; margin: 10px;">
+    <img src="https://skillicons.dev/icons?i=threejs" width="60" height="60" alt="Three.js" />
+    <br><br>
+    <sub><b style="color: white; font-size: 14px;">Three.js</b></sub>
+  </div>
+</td>
+      <td align="center" width="120">
         <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 15px; padding: 15px; margin: 10px;">
           <img src="https://skillicons.dev/icons?i=redux" width="60" height="60" alt="Redux" />
           <br><br><sub><b style="color: white; font-size: 14px;">Redux</b></sub>
