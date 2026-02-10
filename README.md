@@ -91,8 +91,14 @@ Passionate about building modern, user-friendly web apps.
 ---
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=afeef-m&show_icons=true&locale=en&theme=gotham" alt="Afeef" width="45%" />
-    <img src="https://leetcard.jacoblin.cool/afeef-m?theme=dark&font=ABeeZee" width="45%" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=afeef-m&show_icons=true&theme=gotham"
+    width="45%"
+  />
+  <img
+    src="https://leetcard.jacoblin.cool/afeef-m?theme=dark&font=ABeeZee"
+    width="45%"
+  />
 </p>
 
 ---
