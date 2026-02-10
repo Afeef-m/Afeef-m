@@ -63,20 +63,6 @@ Passionate about building modern, user-friendly web apps.
         </div>
       </td>
       <td align="center" width="120">
-  <div style="background: linear-gradient(135deg, #000000 0%, #434343 100%); border-radius: 15px; padding: 15px; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=gsap" width="60" height="60" alt="GSAP" />
-    <br><br>
-    <sub><b style="color: white; font-size: 14px;">GSAP</b></sub>
-  </div>
-</td>
-      <td align="center" width="120">
-  <div style="background: linear-gradient(135deg, #000000 0%, #434343 100%); border-radius: 15px; padding: 15px; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=threejs" width="60" height="60" alt="Three.js" />
-    <br><br>
-    <sub><b style="color: white; font-size: 14px;">Three.js</b></sub>
-  </div>
-</td>
-      <td align="center" width="120">
         <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 15px; padding: 15px; margin: 10px;">
           <img src="https://skillicons.dev/icons?i=redux" width="60" height="60" alt="Redux" />
           <br><br><sub><b style="color: white; font-size: 14px;">Redux</b></sub>
@@ -105,7 +91,7 @@ Passionate about building modern, user-friendly web apps.
 ---
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=afeef-m&show_icons=true&locale=en&theme=gotham" alt="dennisbenadict" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=afeef-m&show_icons=true&locale=en&theme=gotham" alt="Afeef" width="45%" />
     <img src="https://leetcard.jacoblin.cool/afeef-m?theme=dark&font=ABeeZee" width="45%" />
 </p>
 
@@ -125,7 +111,7 @@ Passionate about building modern, user-friendly web apps.
         </a>
       </td>
       <td align="center" width="250">
-        <a href="https://github.com/Afeef-m/afeef-portfolio" target="_blank">
+        <a href="https://portfolio-me-kappa-weld.vercel.app/" target="_blank">
           <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 20px; padding: 20px; margin: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.25);">
             <img src="https://img.icons8.com/color/96/000000/domain.png" width="70" height="70" alt="Portfolio"/>
             <br><br><sub><b style="color: white; font-size: 16px;">🌐 Portfolio Website</b></sub>
