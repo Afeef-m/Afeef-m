@@ -93,29 +93,73 @@ Passionate about building modern, user-friendly web apps.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 📌 Featured Projects
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="250">
-        <a href="https://pet-ecom-nine.vercel.app/" target="_blank">
-          <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 20px; margin: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.25);">
-            <img src="https://img.icons8.com/color/96/000000/dog.png" width="70" height="70" alt="Pet App"/>
-            <br><br><sub><b style="color: white; font-size: 16px;">Pet E-Commerce</b></sub>
-          </div>
-        </a>
-      </td>
-      <td align="center" width="250">
-        <a href="https://portfolio-me-kappa-weld.vercel.app/" target="_blank">
-          <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 20px; padding: 20px; margin: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.25);">
-            <img src="https://img.icons8.com/color/96/000000/domain.png" width="70" height="70" alt="Portfolio"/>
-            <br><br><sub><b style="color: white; font-size: 16px;">Portfolio</b></sub>
-          </div>
-        </a>
-      </td>
-    </tr>
-  </table>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<!-- 🐶 PET PROJECT -->
+<td align="center" width="260">
+<a href="https://pet-ecom-nine.vercel.app/" target="_blank">
+<div style="background: linear-gradient(135deg, #667eea, #764ba2); border-radius: 18px; padding: 22px; margin: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.35);">
+
+<img src="https://img.icons8.com/color/96/dog.png" width="75"/>
+
+<br><br>
+
+<b style="color:white; font-size:17px;">🐶 Pet E-Commerce</b>
+
+<br>
+
+<sub style="color:#e0e0e0;">React · Node · MongoDB</sub>
+
+</div>
+</a>
+</td>
+
+<!-- 🎬 FEATURED (MAIN PROJECT) -->
+<td align="center" width="260">
+<a href="https://movieon-nine.vercel.app/" target="_blank">
+<div style="background: linear-gradient(135deg, #ff512f, #dd2476); border-radius: 18px; padding: 26px; margin: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.45); border: 2px solid rgba(255,255,255,0.2);">
+
+<img src="https://img.icons8.com/color/96/film-reel.png" width="80"/>
+
+<br><br>
+
+<b style="color:white; font-size:18px;">🎬 Movie Booking (Featured)</b>
+
+<br>
+
+<sub style="color:#ffe0e0;">Next.js · TypeScript · Razorpay</sub>
+
+</div>
+</a>
+</td>
+
+<!-- 🌐 PORTFOLIO -->
+<td align="center" width="260">
+<a href="https://afeef-m.vercel.app/" target="_blank">
+<div style="background: linear-gradient(135deg, #43e97b, #38f9d7); border-radius: 18px; padding: 22px; margin: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.35);">
+
+<img src="https://img.icons8.com/color/96/domain.png" width="75"/>
+
+<br><br>
+
+<b style="color:white; font-size:17px;">🌐 Portfolio</b>
+
+<br>
+
+<sub style="color:#003d2e;">Personal Website</sub>
+
+</div>
+</a>
+</td>
+
+</tr>
+</table>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
